@@ -6,6 +6,7 @@ function Home() {
   return (
     <div className={styles.homeContainer}>
       <Header />
+      {/*  <CategoryCardList></CategoryCardList> */}
       {/* Main */}
       {/* Footer */}
     </div>
