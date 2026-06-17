@@ -1,11 +1,11 @@
-import searchBar from "./searchBar/searchBar";
+import SearchBar from "../searchBar";
 
-function mainTest() {
+function MainTest() {
   return (
     <div className="mainSyle">
       <h1>Один клик и работа в кармане</h1>
-      <searchBar />
+      <SearchBar />
     </div>
   );
 }
-export default mainTest;
+export default MainTest;
